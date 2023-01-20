@@ -1,2 +1,1 @@
-#Kalender
-program kalender seumur hidup in C
+program kalender in C
