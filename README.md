@@ -1,2 +1,2 @@
-# C-code-collection
-some things i created
+#Kalender
+program kalender seumur hidup in C
