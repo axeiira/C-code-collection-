@@ -1,0 +1,46 @@
+# depslib dependency file v1.0
+1668346972 source:c:\users\27e17\documents\programming project\codeblocks projects\program kalender seumur hidup\fungsi_haribulan.c
+	<stdio.h>
+	<conio.h>
+	<windows.h>
+
+1668666677 source:c:\users\27e17\documents\programming project\codeblocks projects\program kalender seumur hidup\main.c
+	<stdio.h>
+	<conio.h>
+	<windows.h>
+
+1668588253 source:c:\users\27e17\documents\programming project\codeblocks projects\program kalender seumur hidup\fungsi_haripertama.c
+	<stdio.h>
+	<conio.h>
+	<windows.h>
+
+1668485186 source:c:\users\27e17\documents\programming project\codeblocks projects\program kalender seumur hidup\header.c
+	<stdio.h>
+	<conio.h>
+	<windows.h>
+
+1668346972 source:c:\users\27e17\documents\programming project\codeblocks projects\program kalender seumur hidup\fungsi_arrow.c
+	<stdio.h>
+	<conio.h>
+	<windows.h>
+
+1668472123 source:c:\users\27e17\documents\programming project\codeblocks projects\program kalender seumur hidup\gotoxy.c
+	<stdio.h>
+	<conio.h>
+	<windows.h>
+
+1668477259 source:c:\users\27e17\documents\programming project\codeblocks projects\program kalender seumur hidup\identitas.c
+	<stdio.h>
+	<conio.h>
+	<windows.h>
+
+1668749670 source:c:\users\27e17\documents\programming project\codeblocks projects\program kalender seumur hidup\warna.c
+	<stdio.h>
+	<conio.h>
+	<windows.h>
+
+1668512895 source:c:\users\27e17\documents\programming project\codeblocks projects\program kalender seumur hidup\move.c
+	<stdio.h>
+	<conio.h>
+	<windows.h>
+
